@@ -1,0 +1,31 @@
+
+0
+java:S1220""Move this file to a named package.
+o
+java:S18544"TRemove this useless assignment to local variable "toateNumeleDinListaMeaDeStudenti".(ÌÂ„ÿÿÿÿÿ
+P
+java:S18543":Remove this useless assignment to local variable "majori".(•“¸“
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÓÇŠ¹
+Q	java:S125"<This block of commented-out lines of code should be removed.(¬¢©Ã
+V	java:S125*"<This block of commented-out lines of code should be removed.(ƒŒ“ùÿÿÿÿ
+A
+java:S14813"+Remove this unused "majori" local variable.(•“¸“
+`
+java:S14814"ERemove this unused "toateNumeleDinListaMeaDeStudenti" local variable.(ÌÂ„ÿÿÿÿÿ
+Q	java:S125="<This block of commented-out lines of code should be removed.(Œ²–ó
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(€¤úÊ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+A
+java:S2201U"+The return value of "collect" must be used.(ª™¨¹
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(ŸÖ³úùÿÿÿÿ
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(Â‰öÒ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ
+N
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Í
+O
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶
